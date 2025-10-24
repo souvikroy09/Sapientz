@@ -1,0 +1,6 @@
+com\sapientz\Student_Management\repository\StudentRepository.class
+com\sapientz\Student_Management\controller\StudentController.class
+com\sapientz\Student_Management\model\Student.class
+com\sapientz\Student_Management\StudentManagementApplication.class
+com\sapientz\Student_Management\service\StudentService.class
+com\sapientz\Student_Management\service\StudentServiceImpl.class
